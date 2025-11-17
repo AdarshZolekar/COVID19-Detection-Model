@@ -34,7 +34,7 @@ A Python-based machine learning project that predicts COVID-19 test results usin
 
 - Download or add the `covid_data_2020-2021.csv.zip` file to your Google Drive
 
-- Update the file path in the script to match your location
+- Update the file path in the script to match your location.
 
 3. **Run the script:** 
 
