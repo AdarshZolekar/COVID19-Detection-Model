@@ -4,7 +4,7 @@ A Python-based machine learning project that predicts COVID-19 test results usin
 
 ---
 
-## Features 
+## Features
 
 - Analyzes COVID-19 patient data from 2020-2021
 
